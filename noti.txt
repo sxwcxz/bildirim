@@ -1,0 +1,6 @@
+{
+  "show": true,
+  "type": "info",
+  "title": "Duyuru",
+  "message": "Mesajınız buraya"
+}
