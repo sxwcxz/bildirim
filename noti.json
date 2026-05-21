@@ -1,6 +1,7 @@
 {
   "show": true,
-  "type": "info",
-  "title": "Duyuru",
-  "message": "Mesajınız burada."
+  "type": "update",
+  "title": "Yeni Sürüm: v2.1",
+  "message": "Yeni özellikler ve hata düzeltmeleri eklendi.",
+  "action_url": "https://github.com/sxwcxz/.../releases/apk.apk"
 }
