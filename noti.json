@@ -1,7 +1,6 @@
 {
   "show": true,
-  "type": "update",
-  "title": "Yeni Sürüm: v2.1",
-  "message": "Yeni özellikler ve hata düzeltmeleri eklendi.",
-  "action_url": ""
+  "type": "info",
+  "title": "Duyuru",
+  "message": "Mesajınız burada."
 }
