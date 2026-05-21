@@ -1,7 +1,7 @@
 {
-  "show": false,
-  "id": "2.0.20",
-  "title": "Yeni Güncelleme",
-  "message": "Uygulamanız için yeni bir sürüm hazır!",
-  "download_url": "https://siteniz.com/indir.apk"
+  "show": true,
+  "type": "update",
+  "title": "Yeni Sürüm: v2.1",
+  "message": "Yeni özellikler ve hata düzeltmeleri eklendi.",
+  "action_url": "https://github.com/sxwcxz/.../releases/apk.apk"
 }
