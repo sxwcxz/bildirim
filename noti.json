@@ -1,7 +1,5 @@
-{
-  "show": true,
-  "id": "1",
-  "title": "Başlık buraya",
-  "message": "Mesajınız buraya",
-  "download_url": "https://..."
-}
+// Güncelleme bildirimi
+{ "show": false, "type": "update", "title": "v2.1 Güncelleme", "message": "Yeni özellikler eklendi!", "action_url": "https://..." }
+
+// Genel duyuru  
+{ "show": true, "type": "info", "title": "Duyuru", "message": "Sunucu bakımı yapılacak." }
