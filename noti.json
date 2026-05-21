@@ -1,7 +1,6 @@
 {
-  "show": false,
+  "show": true,
   "type": "info",
-  "title": "sehsh",
-  "message": "sh",
-  "action_url": "https://github.com/sxwcxz/bildirim/blob/main/noti.json"
+  "title": "Test",
+  "message": "Çalışıyor mu?"
 }
