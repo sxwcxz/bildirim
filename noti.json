@@ -1,7 +1,7 @@
 {
-  "show": false,
+  "show": true,
   "id": "1",
-  "title": "Yeni Duyuru",
-  "message": "Uygulamamıza hoş geldiniz!",
-  "can_close": true
+  "title": "Duyuru!",
+  "message": "Yeni bir özellik eklendi, güncelleyin!",
+  "download_url": "https://example.com/indir.apk"
 }
