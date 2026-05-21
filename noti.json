@@ -1,5 +1,5 @@
 // Güncelleme bildirimi
 { "show": false, "type": "update", "title": "v2.1 Güncelleme", "message": "Yeni özellikler eklendi!", "action_url": "https://..." }
 
-// Genel duyuru  
+// Genel duyuru 
 { "show": true, "type": "info", "title": "Duyuru", "message": "Sunucu bakımı yapılacak." }
