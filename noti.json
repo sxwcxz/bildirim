@@ -1,7 +1,7 @@
 {
-  "show": false,
+  "show": true,
   "type": "update",
-  "title": "Yeni Sürüm: v2.1",
+  "title": "Yeni Sürüm",
   "message": "Yeni özellikler ve hata düzeltmeleri eklendi.",
-  "action_url": "https://github.com/sxwcxz/.../releases/apk.apk"
+  "action_url": "furkanerturk.me"
 }
