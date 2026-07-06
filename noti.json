@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "type": "update",
   "title": "Yeni Sürüm",
   "message": "Yeni özellikler ve hata düzeltmeleri eklendi.",
