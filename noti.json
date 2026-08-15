@@ -1,6 +1,6 @@
 {
-  "show": false,
-  "type": "update",
+  "show": true,
+  "type": "rating",
   "title": "Uygulamamızı Değerlendirin \u2b50",
   "message": "Uygulamamızı kullanmaktan keyif alıyor musunuz? Geri bildirimleriniz bizim için çok değerli. Bize destek olmak için birkaç saniyenizi ayırıp puan verebilirsiniz.",
   "action_url": "https://play.google.com/store/apps/details?id=com.eaysoft.syncomusic" 
