@@ -1,7 +1,7 @@
 {
-  "show": false,
+  "show": true,
   "type": "update",
-  "title": "Yeni Sürüm",
-  "message": "Yeni özellikler ve hata düzeltmeleri eklendi.",
-  "action_url": "https://www.youtube.com/"
+  "title": "Uygulamamızı Değerlendirin \u2b50",
+  "message": "Uygulamamızı kullanmaktan keyif alıyor musunuz? Geri bildirimleriniz bizim için çok değerli. Bize destek olmak için birkaç saniyenizi ayırıp puan verebilirsiniz.",
+  "action_url": "https://play.google.com/store/apps/details?id=com.eaysoft.syncomusic" 
 }
